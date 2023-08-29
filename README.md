@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Atualmente estou estudando Desenvolvimento de Software com foco em Backend, na Cubos Academy. Em paralelo, sempre que possível, tento buscar outros conhecimentos que possam agregar nessa área de programação.
 Estou aprendendo 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
