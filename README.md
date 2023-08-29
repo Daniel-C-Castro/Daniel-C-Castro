@@ -1,4 +1,4 @@
-### Hi there 👋
+### E aí?! bem-vindo ao meu perfil. 👋
 
 <!--
 **Daniel-C-Castro/Daniel-C-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Atualmente estou estudando Desenvolvimento de Software com foco em Backend, na Cubos Academy. Em paralelo, sempre que possível, tento buscar outros conhecimentos que possam agregar nessa área de programação.
+Estou aprendendo 
+            <i class="devicon-javascript-plain colored"></i>
+          
